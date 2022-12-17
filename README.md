@@ -4,7 +4,7 @@
 Created a Django based webapp that provide features for teachers and students that aims to simplify creating, submitting, and grading assignments.
 Tech-Stack: Django, Bootstrap, SQLite, Ajax
 
-2. Live Link : https://www2.hm.com/en_in/account
+2. Live Link : https://youtu.be/uhIJVrp9cb4
 **To run this:**  
   
 1. Install python  
