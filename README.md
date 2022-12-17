@@ -5,7 +5,9 @@ Created a Django based webapp that provide features for teachers and students th
 Tech-Stack: Django, Bootstrap, SQLite, Ajax
 
 2. Live Link : https://youtu.be/uhIJVrp9cb4
-**To run this:**  
+
+
+3.**To run this:**  
   
 1. Install python  
    python version 3.7.6  
