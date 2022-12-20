@@ -1,5 +1,6 @@
 # Title: Sutex_Lms
 
+It was a group project with two contributors me and Naman Malik. 
 1. Description : A learning management system like google classroom  
 Created a Django based webapp that provide features for teachers and students that aims to simplify creating, submitting, and grading assignments.
 Tech-Stack: Django, Bootstrap, SQLite, Ajax
